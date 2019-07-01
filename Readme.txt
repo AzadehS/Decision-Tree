@@ -1,4 +1,4 @@
-I used Java to program decision tree. the folder contains datasets, "Tree.java", "Tree.class" and a readme.txt files. I used the below command in the terminal.
+I used Java to program decision tree. The folder contains datasets, "Tree.java", "Tree.class" and a readme.txt files. I used the below command in the terminal.
 
 java Tree 8 4 data_sets1/training_set.csv data_sets1/validation_set.csv data_sets1/test_set.csv no
 
